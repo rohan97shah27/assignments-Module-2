@@ -8,6 +8,7 @@
 .container {
   padding-right: 40px;
   padding-left: 40px;  
+
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -206,13 +207,16 @@ p {
   margin-bottom: 0;
   color: black;
   background: red;
+  max-height: word-wrap: 
 }
 .item-box {
   position: relative;
   border: 1px solid black;
   overflow: hidden;
   margin-bottom: 10px;
-  background: orange;
+  
+  background: red;
+
 
 }
 .item-box div {
